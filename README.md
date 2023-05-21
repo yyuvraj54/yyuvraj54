@@ -9,7 +9,7 @@ Hi there! I'm currently doing my btech and love to contribute on github in vario
 
 
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Machine learning**
 
 - 👨‍💻 All of my projects are available at [https://yyuvraj54.github.io/Web-Resume/](https://yyuvraj54.github.io/Web-Resume/)
 
