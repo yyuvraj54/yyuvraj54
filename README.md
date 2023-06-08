@@ -24,8 +24,6 @@ Hi there! I'm currently doing my btech and love to contribute on github in vario
 </p>
 
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yyuvraj54)](https://github.com/yyuvraj54/github-readme-stats)
-
 
 
 <h3 align="left">Languages and Tools:</h3>
