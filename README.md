@@ -14,7 +14,7 @@ Hi there! I'm currently doing my btech and love to contribute on github in vario
 
 - 📫 How to reach me **yyuvraj54@gmail.com**
 
-- 📄 Know More [https://drive.google.com/file/d/1eS90PC3VMLt3Zh_3qlAVNOIBhNt3QSts/view?usp=sharing](https://drive.google.com/file/d/1eS90PC3VMLt3Zh_3qlAVNOIBhNt3QSts/view?usp=sharing)
+- 📄 Know More [https://drive.google.com/file/d/1eS90PC3VMLt3Zh_3qlAVNOIBhNt3QSts/view?usp=sharing](https://drive.google.com/file/d/1rT8aGPSZE3mTdXKyH7CdD-QBCQurYspi/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
