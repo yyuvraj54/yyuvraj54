@@ -20,6 +20,14 @@ Hi there! I'm currently doing my btech and love to contribute on github in vario
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yuvraj-singh-yadav-aa9488140/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yuvraj-singh-yadav-aa9488140/" height="30" width="40" /></a>
 <a href="https://instagram.com/yuvrajyadav9448" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yuvrajyadav9448" height="30" width="40" /></a>
+  <a href="https://twitter.com/yuvrajy88012347" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      alt="11winterwolf"
+      height="30"
+      width="40"
+  /></a>
 </p>
 
 
