@@ -12,7 +12,6 @@ Hi there! I'm currently doing my btech and love to contribute on github in vario
 
 - 👨‍💻 All of my projects are available at [https://yyuvraj54.github.io/Web-Resume/](https://yyuvraj54.github.io/Web-Resume/)
 
-- 📫 How to reach me **yyuvraj54@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
