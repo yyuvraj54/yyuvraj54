@@ -36,7 +36,13 @@ Hi there! I'm currently doing my btech and love to contribute on github in vario
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yyuvraj54" alt="yyuvraj54" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&row=2&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+  
 
 
+<p align="center">
 <a href=#><img src="contributions.svg"></a>
+</p>
+
+
