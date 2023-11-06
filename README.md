@@ -51,9 +51,9 @@ Hi there! I'm currently doing my btech and love to contribute on github in vario
 </p>
 
 
-<p align="center">
+
 <a href=#><img src="contributions.svg"></a>
-</p>
+
 
 
 <p align="center">
