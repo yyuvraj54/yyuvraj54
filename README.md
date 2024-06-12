@@ -5,7 +5,7 @@
 
 
 <h1 align="center">HELLO 👋, I'm YUVRAJ SINGH YADAV</h1>
-<h3 align="center">A Full-stack Developer.</h3>
+<h3 align="center">Application Developer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yyuvraj54&label=Profile%20views&color=0e75b6&style=flat" alt="yyuvraj54" /> </p>
 
 Hi there! I'm currently doing my btech and love to contribute on github in various languages apart from my codeing i also like to travel and explore new places.
