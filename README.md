@@ -16,7 +16,6 @@ Hi there! I'm currently doing my btech and love to contribute on github in vario
 
 
 - 👨‍💻 All of my projects are available at [https://yyuvraj54.github.io/Web-Resume/](https://yyuvraj54.github.io/Web-Resume/)
-- My Resume : [https://drive.google.com/file/d/1koR1MAbCWj6CNsd_hmDgrzm7-yA2gvZ0/view?usp=sharing](https://drive.google.com/file/d/1YKLktAMtg1c49wQ7fdCCRmltGtrO0f5k/view?usp=sharing)
 - 🔭 Good Problem Solver
 - 💬 Ask me about anything and everything!
 
