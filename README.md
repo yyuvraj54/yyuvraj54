@@ -56,11 +56,14 @@ Hi there! I'm currently doing my btech and love to contribute on github in vario
 
 <a href=#><img src="contributions.svg"></a>
 
+<div align="center">
+  <img src="https://drive.google.com/uc?export=view&id=17GMgb5WjjvLD9QRmbKkqy__3NupbOrlD" alt="blinkit_contribution" />
 
+  <p><strong>This image reflects consistent contributions made during my development journey at <a href="https://drive.google.com/file/d/14FLW7wvQ2iPhcnT96wxbfZduvKpqg0up/view?usp=sharing" target="_blank">
+  Blinkit.</a></strong></p>
 
-<p align="center">
-    <img src="https://github.com/yyuvraj54/yyuvraj54/assets/30363687/bbfab837-7d53-4b09-88f8-5a9a59e64032" alt="app development" />
-</p>
+  
+</div>
 
 
 
